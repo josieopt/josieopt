@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Josie
-- 👀 I’m interested in Optimization, Mathematical Modeling and Machine Learning
-- 🌱 I’m currently learning Deep Learning Algorithms
+- 👀 I’m interested in Optimization, Mathematical Modeling, Machine Learning and Deep Learning
+- 🌱 I’m currently developing optimization algorithms for a series of classic/real-world challenges
 - 📫 How to reach me: josielc1226@gmail.com
 
 <!---
